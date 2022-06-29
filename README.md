@@ -1,1 +1,0 @@
-# react-navigation-v6-mix
